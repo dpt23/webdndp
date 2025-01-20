@@ -58,3 +58,11 @@ footer {
 main {
     margin-top: 60px;
 }
+
+
+/* Lists */
+
+li {
+    font-size: 35px;
+    color: navy;
+}
